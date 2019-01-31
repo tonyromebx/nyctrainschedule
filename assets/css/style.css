@@ -1,0 +1,24 @@
+.jumbotron{
+	background-image: url("../images/map-articleLarge.jpg");
+}
+
+.jumbotron h1 {
+	color: #000;
+}
+
+
+h5 {
+	color: blue;
+}
+
+.panel-primary>.panel-heading {
+    color: #ffffff;
+    background-color: #101213;
+    border-color: #dddddd;
+}
+
+.btn-primary {
+    color: #ffffff;
+    background-color: #040506;
+    border-color: #181c1f;
+}
